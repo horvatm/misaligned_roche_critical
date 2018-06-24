@@ -1,2 +1,31 @@
-# misaligned_roche_critical
-Calculating critical points of misaligned Roche lobes
+# roche_critical_points
+
+Calculating and browsing over critical points of the Kopal potential 
+Omega associated to a misaligned binary star.
+
+Kopal potential is defined 
+    Omega(x,y,z, params) = 
+      1/r1 + q(1/r2 - x/delta^2) + 
+      1/2 (1 + q) F^2 [(x cos theta - z sin theta)^2 + y^2]
+      
+    r1 = sqrt(x^2 + y^2 + z^2)
+    r2 = sqrt((x-delta)^2 + y^2 + z^2)
+
+and the critical point r is determined by equation 
+    
+    nabla Omega(r) = 0;
+
+  
+Content:
+
+  /src 
+    main.cpp        <- program for calculating critical points 
+                       for a range of parameters 
+    main_gpu.cu     <- a GPU version of the program
+    main.h         
+    Makefile
+
+  /res
+    plot.py         <- program for browsing over results
+    res.pkl         <- compressed results
+    bzip2_pickle.py
