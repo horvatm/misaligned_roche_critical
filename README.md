@@ -15,7 +15,13 @@ and the critical point r is determined by equation
     
     nabla Omega(r) = 0;
 
-  
+Potential parameters are
+
+    theta - angle of misalignment between orbit and star's angular momentum
+    F - synchronicity parameter
+    delta -  fractional instantaneous separation
+    q - mass ratio
+
 Content:
 
     /src 
