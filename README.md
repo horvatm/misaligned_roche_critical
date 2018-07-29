@@ -34,3 +34,10 @@ Content:
         plot.py         <- program for browsing over results
         res.pkl         <- compressed results
         bzip2_pickle.py
+
+
+This software extens the content of the paper:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Horvat et. al. "Physics of Eclipsing Binaries. III. Spin-Orbit Misalignment", accepted in ApJS, [link](https://arxiv.org/abs/1806.07680v2)
+
+and is connected to [Project PHOEBE](http://phoebe-project.org/) and the GitHub repository https://github.com/phoebe-project/phoebe2.
