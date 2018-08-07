@@ -38,6 +38,6 @@ Content:
 
 This software extents the content of the paper:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Horvat et. al. "Physics of Eclipsing Binaries. III. Spin-Orbit Misalignment", ApJS 237:26 (14pp), 2018 August](https://doi.org/10.3847/1538-4365/aacd0f), preprint on [arxiv.org](https://arxiv.org/abs/1806.07680v2)
+&nbsp;&nbsp;&nbsp;&nbsp;[Horvat et. al. "Physics of Eclipsing Binaries. III. Spin-Orbit Misalignment", ApJS 237:26 (14pp), 2018 August](https://doi.org/10.3847/1538-4365/aacd0f), [arxiv.org](https://arxiv.org/abs/1806.07680v2)
 
 and is connected to [Project PHOEBE](http://phoebe-project.org/) and the GitHub repository https://github.com/phoebe-project/phoebe2.
